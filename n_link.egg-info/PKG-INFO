@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: n-link
+Version: 0.1.0
+Summary: MEG to Speech/Text System - Real-time MEG signal conversion
+Author: N-Link Team
+Requires-Python: >=3.8
+Requires-Dist: torch>=2.0.0
+Requires-Dist: torchaudio>=2.0.0
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: scipy>=1.7.0
+Requires-Dist: librosa>=0.9.0
+Requires-Dist: transformers>=4.35.0
+Requires-Dist: mne>=1.0.0
+Requires-Dist: pandas>=1.3.0
+Requires-Dist: tqdm>=4.62.0
+Requires-Dist: wandb>=0.12.0
+Requires-Dist: einops>=0.6.0
+Requires-Dist: accelerate>=0.21.0
+Requires-Dist: bitsandbytes>=0.41.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
